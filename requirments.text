@@ -1,0 +1,36 @@
+attrs==21.2.0
+Automat==20.2.0
+bcrypt==3.2.0
+certifi==2021.5.30
+cffi==1.14.6
+click @ file:///Users/runner/miniforge3/conda-bld/click_1621503850566/work
+constantly==15.1.0
+Flask @ file:///home/conda/feedstock_root/build_artifacts/flask_1621629915293/work
+Flask-Cors==3.0.10
+Flask-Script==2.0.6
+Flask-Twisted==0.1.2
+greenlet==1.1.1
+hyperlink==21.0.0
+idna==3.2
+incremental==21.3.0
+iniconfig==1.1.1
+itsdangerous @ file:///home/conda/feedstock_root/build_artifacts/itsdangerous_1621360792037/work
+Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1621419064915/work
+MarkupSafe @ file:///Users/runner/miniforge3/conda-bld/markupsafe_1621455750847/work
+mysql-connector-python==8.0.26
+observable==1.0.3
+packaging==21.0
+pluggy==1.0.0
+protobuf==3.17.3
+py==1.10.0
+pycparser==2.20
+PyJWT==2.1.0
+pyparsing==2.4.7
+pytest==6.2.5
+six==1.16.0
+SQLAlchemy==1.4.22
+toml==0.10.2
+Twisted==21.7.0
+typing-extensions==3.10.0.2
+Werkzeug @ file:///home/conda/feedstock_root/build_artifacts/werkzeug_1621518206714/work
+zope.interface==5.4.0
